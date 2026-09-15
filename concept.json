@@ -1,0 +1,11 @@
+{
+  "slug": "onchain-tattoo",
+  "name": "Onchain Tattoo",
+  "kind": "proof",
+  "description": "Create compact symbolic SVGs with an immutable meaning and ownership statement.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
