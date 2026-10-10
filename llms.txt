@@ -1,0 +1,26 @@
+# onchain-tattoo
+
+> Create compact symbolic SVGs with an immutable meaning and ownership statement.
+
+onchain-tattoo is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md): install, usage and reference
+- [Why this exists](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#why-this-exists)
+- [Working features](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#working-features)
+- [Status](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#status)
+- [Run](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#run)
+- [Transaction v1 rules](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#transaction-v1-rules)
+- [License](https://github.com/nirholas/onchain-tattoo/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/onchain-tattoo/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/onchain-tattoo/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/onchain-tattoo)
+- [Issues](https://github.com/nirholas/onchain-tattoo/issues)
+- [Discussions](https://github.com/nirholas/onchain-tattoo/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
