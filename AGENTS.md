@@ -8,7 +8,7 @@ Create compact symbolic SVGs with an immutable meaning and ownership statement.
 
 - Source: https://github.com/nirholas/onchain-tattoo
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
